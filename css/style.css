@@ -1,0 +1,7 @@
+.site-header{
+  background-color: rgba(0, 0, 0, .85);
+}
+.site-header a {
+    color: white;
+    transition: ease-in-out color .15s;
+  }

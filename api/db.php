@@ -3,7 +3,7 @@
     $servidor = "localhost";
     $password = "";
     $usuario = "root";
-    $bd = "mydb";
+    $bd = "WebProtoDB";
     $link = mysqli_connect($servidor
       ,$usuario, $password, $bd);
     return $link;
